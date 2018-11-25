@@ -3,3 +3,6 @@
 
 这是Android Studio上的安卓开发（相机使用）。
 开发语言：Kotlin，不是Java！！！
+
+SDK最低版本：21。
+SDK编译版本：27。
